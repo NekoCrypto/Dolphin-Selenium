@@ -2,7 +2,6 @@
 Use with dolphin profiles with Selenium
 
 <b>And Big thanks to TL: @soloway911  |  Valery Andreev </b>
-
 who helped me with this case
 
 From chat group TL: t.me/code_hodlmodeth
