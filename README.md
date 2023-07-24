@@ -3,7 +3,7 @@ Use with dolphin profiles with Selenium
 
 Source: https://dolphin-anty.com/docs/basic-automation/
 
-And Big thanks to TL: @soloway911  |  Valery Andreev 
+<b>And Big thanks to TL: @soloway911  |  Valery Andreev </b>
 
 who helped me with this case
 
